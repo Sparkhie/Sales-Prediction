@@ -1,2 +1,4 @@
 # Sales-Prediction
-This repository contains a sales prediction model designed to forecast future sales using historical data. The project includes a main application script, a Jupyter Notebook for model development and experimentation, as well as pre-trained preprocessing objects like encoders and scalers.
+The Sales Prediction App is a web-based application that estimates future sales based on user-provided input data. It utilizes a trained machine learning model (Extra Tree Regressor) to generate precise and reliable sales forecasts.
+Project Structure
+
